@@ -107,7 +107,7 @@
     "jszip": "^3.1.4",
     "malihu-custom-scrollbar-plugin": "https://github.com/ProtonMail/malihu-custom-scrollbar-plugin.git#feat/fixUpdateTimeout",
     "markdown-it": "^8.4.0",
-    "moment": "^2.19.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.13",
     "mousetrap": "^1.6.1",
     "ng-intl-tel-input": "^2.0.0",
