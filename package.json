@@ -20,7 +20,7 @@
     "eslint-config-airbnb-base": "^11.3.1",
     "eslint-plugin-import": "^2.7.0",
     "findup-sync": "^0.3.0",
-    "grunt": "^0.4.5",
+    "grunt": "^1.5.2",
     "grunt-angular-gettext": "https://github.com/bartbutler/grunt-angular-gettext.git",
     "grunt-babel": "^6.0.0",
     "grunt-browser-sync": "^2.2.0",
