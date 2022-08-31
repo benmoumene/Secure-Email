@@ -108,7 +108,7 @@
     "malihu-custom-scrollbar-plugin": "https://github.com/ProtonMail/malihu-custom-scrollbar-plugin.git#feat/fixUpdateTimeout",
     "markdown-it": "^8.4.0",
     "moment": "^2.19.0",
-    "moment-timezone": "^0.5.13",
+    "moment-timezone": "^0.5.35",
     "mousetrap": "^1.6.1",
     "ng-intl-tel-input": "^2.0.0",
     "ng-pikaday": "https://github.com/ProtonMail/ng-pikaday.git#master",
