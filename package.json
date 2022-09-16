@@ -83,7 +83,7 @@
     "awesomplete": "https://github.com/ProtonMail/awesomplete.git#feat/listOutside",
     "bcryptjs": "^2.4.3",
     "blob.js": "^1.0.1",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "bootstrap-sass": "^3.3.7",
     "bourbon": "^4.3.4",
     "clipboard": "^1.7.1",
